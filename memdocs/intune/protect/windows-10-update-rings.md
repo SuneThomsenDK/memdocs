@@ -145,7 +145,7 @@ While an update ring is paused, you can select **Extend** to reset the pause per
 #### To Extend the pause period for a ring
 
 1. While viewing the overview page for a paused Update Ring, select **Extend**.
-2. Select from the available options to resume either **Feature** or **Quality** updates, and then select **OK**.
+2. Select from the available options to extend either **Feature** or **Quality** updates, and then select **OK**.
 3. After extending the pause for one update type, you can select Extend again to extend the other update type.
 
 ### Uninstall  
